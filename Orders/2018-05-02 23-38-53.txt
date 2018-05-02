@@ -1,0 +1,24 @@
+test@mail.ru
+<table border="1">
+					<tr>
+						<th>ID</th>
+						<th>NAME</th>
+						<th>QUANTITY</th>
+						<th>PRICE</th>
+						<th>SUMM</th>
+					</tr>
+						<tr>
+					  <td>1</td>
+					  <td>BMW</td>
+					  <td>1</td>
+					  <td>1500000</td>
+					  <td>1500000</td>
+				</tr>
+						<tr>
+					  <td>3</td>
+					  <td>Red Mars</td>
+					  <td>40</td>
+					  <td>400</td>
+					  <td>16000</td>
+				</tr>
+						</table>
